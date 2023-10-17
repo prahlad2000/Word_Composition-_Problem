@@ -1,6 +1,6 @@
 # Word_Composition-_Problem
 
-#[Approach for this Problem](https://github.com/prahlad2000/Word_Composition-_Problem/blob/main/ImpledgeOA.cpp)
+#Approach for this Problem [cpp Code](https://github.com/prahlad2000/Word_Composition-_Problem/blob/main/ImpledgeOA.cpp)
 
 1. Build a Trie while reading words from the file. For each word, track valid words encountered and push <word, suffix> pairs into a deque.
 
